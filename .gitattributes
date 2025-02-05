@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+Banco_de_dados/cancellations.csv filter=lfs diff=lfs merge=lfs -text
+Notebooks/inicial.ipynb filter=lfs diff=lfs merge=lfs -text
