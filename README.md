@@ -41,5 +41,25 @@ A taxa está desequilibrada, 56,7% dos clientes cancelaram o serviço. Assim far
 - Clientes com menos de 500 reais gastos sempre cancelam. Incentivar o gasto maior com benefícios.
 </br>
 </br>
-# Dados após melhorias
+
+# Dados depois da melhoria
 **Pós incentivo de planos quartenários e anuais a taxa de churn caiu cerca de 10%, um percentual que representa mais de 170 mil clientes. Uma melhoria significativa.**
+<img src="Imagens/Cancelou - Retirada de Planos Mensais.png">
+
+**Pós problema com CallCenter solucionado se destaca uma diminuição de 20%, cerca de 190 mil clientes, do churn em comparação ao valor anterior.**
+<img src="Imagens/Cancelou - Correção do CallCenter.png">
+
+**Pós solução do atraso de pagamento a taxa de cancelamento caiu 8%, 51 mil clientes.**
+<img src="Imagens/Cancelou - Atraso do Pagamento.png">
+
+**Pós focar e investir nos clientes mais jovens, percebemos uma diminuição de cerca de 6% no churn dos clientes, mais de 30 mil.**
+<img src="Imagens/Cancelou - Idade.png">
+
+## Conclução
+- Iniciamos a análise com uma taxa de cancelamento de 56,7%, o que indicava um alto nível de churn entre os clientes. Após um primeiro tratamento nos dados, conseguimos reduzir esse valor para 46,1%, já demonstrando uma melhoria significativa.
+
+- Com o apoio da análise exploratória e dos gráficos, ajustamos ainda mais a base de dados, refinando os critérios e identificando padrões mais precisos. Como resultado, conseguimos reduzir a taxa de cancelamento para 12,1%, evidenciando a importância da limpeza e organização dos dados na obtenção de insights mais confiáveis.
+
+- Esses ajustes permitem que a empresa tenha uma visão mais clara do comportamento dos clientes e possa tomar decisões estratégicas mais assertivas para reduzir o churn no futuro. 
+
+
